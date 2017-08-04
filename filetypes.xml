@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Sfere" type="CLASS" />
       <mapping pattern="Person2" type="CLASS" />
       <mapping pattern="Person" type="CLASS" />
       <mapping pattern="Persoana" type="CLASS" />
